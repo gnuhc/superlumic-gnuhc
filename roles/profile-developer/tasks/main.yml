@@ -18,7 +18,7 @@
   ignore_errors: True
   with_items:
     - sequel-pro
-   - charles
+    - charles
     # - google-chrome
     # - firefox
     # - microsoft-teams

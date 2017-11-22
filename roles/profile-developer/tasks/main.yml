@@ -16,7 +16,7 @@
 - name: install developer cask applications
   homebrew_cask: name={{item}} state=present
   with_items:
-   # - sequel-pro
+    - sequel-pro
     # - charles
     # - google-chrome
     # - firefox

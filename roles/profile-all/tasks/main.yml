@@ -4,6 +4,6 @@
   homebrew_cask: name={{item}} state=present
   with_items:
     - google-backup-and-sync
-    - vlc
+   # - vlc
     #- keepingyouawake
 

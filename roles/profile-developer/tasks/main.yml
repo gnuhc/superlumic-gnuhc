@@ -17,14 +17,14 @@
   homebrew_cask: name={{item}} state=present
   with_items:
    # - sequel-pro
-    - charles
-    - google-chrome
-    - firefox
-    - microsoft-teams
-    - sublime-text
-    - atom
-    - android-studio
-    - licecap
-    - iterm2
-    - 1password
-    - postman
+    # - charles
+    # - google-chrome
+    # - firefox
+    # - microsoft-teams
+    # - sublime-text
+    # - atom
+    # - android-studio
+    # - licecap
+    # - iterm2
+    # - 1password
+    # - postman

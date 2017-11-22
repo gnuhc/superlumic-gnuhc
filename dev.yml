@@ -25,7 +25,6 @@
         - licecap
         - iterm2
         - 1password
-        - postman
     - name: create ssh directory
       become: yes
       file:

@@ -18,14 +18,13 @@
   ignore_errors: True
   with_items:
     - sequel-pro
-    - charles
-    # - google-chrome
-    # - firefox
-    # - microsoft-teams
-    # - sublime-text
-    # - atom
-    # - android-studio
-    # - licecap
-    # - iterm2
-    # - 1password
-    # - postman
+    - google-chrome
+    - firefox
+    - microsoft-teams
+    - sublime-text
+    - atom
+    - android-studio
+    - licecap
+    - iterm2
+    - 1password
+    - postman

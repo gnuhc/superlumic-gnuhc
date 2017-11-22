@@ -14,17 +14,9 @@
         - node       
     - name: install personal cask applications
       homebrew_cask: name={{item}} state=present
+      ignore_errors: True
       with_items:
         - charles
-        - google-chrome
-        - firefox
-        - microsoft-teams
-        - sublime-text
-        - atom
-        - android-studio
-        - licecap
-        - iterm2
-        - 1password
     - name: create ssh directory
       become: yes
       file:
